@@ -13,7 +13,7 @@ A frond-end dev starter
 
 Clone the repo to your local machine, and start building:
 ```
-git clone https://github.com/joetxa/starter.git 
+git clone https://github.com/joetxa/STARTER.git 
 ```
 
 ## Usage
