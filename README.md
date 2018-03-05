@@ -3,17 +3,19 @@ A frond-end dev starter
 
 ## What's included
 
-- 
-- 
-- 
-- 
-- 
+- CSS preprocessing with SASS
+- Javascript bundlers
+- Babel
 
 ## Getting started
 
 Clone the repo to your local machine, and start building:
 ```
 git clone https://github.com/joetxa/STARTER.git 
+```
+Install the dependencies:
+```
+npm install 
 ```
 
 ## Usage
