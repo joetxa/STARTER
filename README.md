@@ -1,5 +1,5 @@
 # Parcel Starter
-A frond-end dev starter
+A frond-end developement boilerplate starter
 
 ## What's included
 
